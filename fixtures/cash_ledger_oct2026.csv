@@ -1,0 +1,303 @@
+Date,Voucher_No,Reference,Description,Cash_In,Cash_Out,Balance
+2026-10-01,CR-10002,DEP-1001-002,Store Cash Deposit - Daily Counter Cash Sales,1743.38,,20193.38
+2026-10-01,CR-10004,DEP-1001-004,Retail POS Batch Settlement - Daily Card Sales,679.86,,20873.24
+2026-10-01,CR-10006,DEP-1001-006,Retail POS Batch Settlement - Daily Card Sales,994.16,,21867.40
+2026-10-01,CR-10009,DEP-1001-009,Wholesale Invoice Settlement - Wholesale Account Receivable,1499.88,,23367.28
+2026-10-01,PV-10001A,CHK-10001-1,Metro Packaging Co - Packaging & Boxes (Part 1/2),,568.58,22798.70
+2026-10-01,PV-10001B,CHK-10001-2,Metro Packaging Co - Packaging & Boxes (Part 2/2),,379.06,22419.64
+2026-10-01,PV-10003,CHK-10003,Evergreen Janitorial - Cleaning Services,,156.38,22263.26
+2026-10-01,PV-10005A,CHK-10005-1,Northwest Logistics - Freight & Delivery (Part 1/2),,1168.33,21094.93
+2026-10-01,PV-10005B,CHK-10005-2,Northwest Logistics - Freight & Delivery (Part 2/2),,778.89,20316.04
+2026-10-01,PV-10007,CHK-10007,Northwest Logistics - Freight & Delivery,,1700.43,18615.61
+2026-10-01,PV-10008,CHK-10008,West Coast Waste Management - Waste Disposal Services,,1701.01,16914.60
+2026-10-02,CR-10012,DEP-1002-012,Wholesale Invoice Settlement - Wholesale Account Receivable,786.31,,17700.91
+2026-10-02,CR-10014,DEP-1002-014,Store Cash Deposit - Daily Counter Cash Sales,906.36,,18607.27
+2026-10-02,CR-10015,DEP-1002-015,Retail POS Batch Settlement - Daily Card Sales,1951.24,,20558.51
+2026-10-02,CR-10016,DEP-1002-016,Store Cash Deposit - Daily Counter Cash Sales,1947.51,,22506.02
+2026-10-02,CR-10019,DEP-1002-019,Online Store Orders - E-Commerce Web Sales,1437.49,,23943.51
+2026-10-02,PV-10010,CHK-10010,Cascade Utilities - Water & Sewage,,277.79,23665.72
+2026-10-02,PV-10011,CHK-10011,Vanguard Insurance - Business Liability Insurance,,1941.76,21723.96
+2026-10-02,PV-10013,CHK-10013,Cascade Fuel & Gas - Store Heating & Delivery Van Fuel,,1752.52,19971.44
+2026-10-02,PV-10017,CHK-10017,Apex Land Holdings - Commercial Store Rent,,625.17,19346.27
+2026-10-02,PV-10018,CHK-10018,Apex Staffing Agency - Temporary Weekend Staff,,1832.47,17513.80
+2026-10-03,CR-10020,DEP-1003-020,Wholesale Invoice Settlement - Wholesale Account Receivable,1437.81,,18951.61
+2026-10-03,CR-10022,DEP-1003-022,Retail POS Batch Settlement - Daily Card Sales,1569.56,,20521.17
+2026-10-03,CR-10026,DEP-1003-026,Store Cash Deposit - Daily Counter Cash Sales,1794.55,,22315.72
+2026-10-03,CR-10028,DEP-1003-028,Retail POS Batch Settlement - Daily Card Sales,1375.84,,23691.56
+2026-10-03,PV-10021,CHK-10021,Apex Land Holdings - Commercial Store Rent,,277.54,23414.02
+2026-10-03,PV-10023,CHK-10023,West Coast Waste Management - Waste Disposal Services,,578.41,22835.61
+2026-10-03,PV-10024,CHK-10024,Summit Hardware Distributors - Store Maintenance Hardware,,1221.06,21614.55
+2026-10-03,PV-10025,CHK-10025,Tri-City Office Supplies - Office Supplies,,1327.16,20287.39
+2026-10-03,PV-10027,CHK-10027,Harbor Telecom - Internet & Telephone,,1735.56,18551.83
+2026-10-03,PV-10029,CHK-10029,West Coast Waste Management - Waste Disposal Services,,651.38,17900.45
+2026-10-04,CR-10030,DEP-1004-030,Retail POS Batch Settlement - Daily Card Sales,792.05,,18692.50
+2026-10-04,CR-10031,DEP-1004-031,Store Cash Deposit - Daily Counter Cash Sales,1072.75,,19765.25
+2026-10-04,CR-10032,DEP-1004-032,Wholesale Invoice Settlement - Wholesale Account Receivable,2195.20,,21960.45
+2026-10-04,CR-10034,DEP-1004-034,Online Store Orders - E-Commerce Web Sales,1498.00,,23458.45
+2026-10-04,CR-10036,DEP-1004-036,Store Cash Deposit - Daily Counter Cash Sales,446.95,,23905.40
+2026-10-04,CR-10037,DEP-1004-037,Retail POS Batch Settlement - Daily Card Sales,339.36,,24244.76
+2026-10-04,CR-10038,DEP-1004-038,Online Store Orders - E-Commerce Web Sales,262.67,,24507.43
+2026-10-04,PV-10033,CHK-10033,Cascade Utilities - Water & Sewage,,449.36,24058.07
+2026-10-04,PV-10035,CHK-10035,Beacon Security Services - Store Security Monitoring,,1200.61,22857.46
+2026-10-04,PV-10039,CHK-10039,Summit Hardware Distributors - Store Maintenance Hardware,,1024.15,21833.31
+2026-10-05,CR-10040,DEP-1005-040,Online Store Orders - E-Commerce Web Sales,1226.14,,23059.45
+2026-10-05,CR-10041,DEP-1005-041,Retail POS Batch Settlement - Daily Card Sales,865.13,,23924.58
+2026-10-05,CR-10043,DEP-1005-043,Wholesale Invoice Settlement - Wholesale Account Receivable,772.09,,24696.67
+2026-10-05,CR-10044,DEP-1005-044,Wholesale Invoice Settlement - Wholesale Account Receivable,298.77,,24995.44
+2026-10-05,CR-10046,DEP-1005-046,Store Cash Deposit - Daily Counter Cash Sales,251.12,,25246.56
+2026-10-05,PV-10042,CHK-10042,West Coast Waste Management - Waste Disposal Services,,1942.97,23303.59
+2026-10-05,PV-10045,CHK-10045,Summit Hardware Distributors - Store Maintenance Hardware,,957.50,22346.09
+2026-10-05,PV-10047,CHK-10047,Apex Staffing Agency - Temporary Weekend Staff,,512.07,21834.02
+2026-10-05,PV-10048,CHK-10048,Harbor Telecom - Internet & Telephone,,815.15,21018.87
+2026-10-06,CR-10049,DEP-1006-049,Wholesale Invoice Settlement - Wholesale Account Receivable,685.26,,21704.13
+2026-10-06,CR-10050,DEP-1006-050,Wholesale Invoice Settlement - Wholesale Account Receivable,287.98,,21992.11
+2026-10-06,CR-10053,DEP-1006-053,Online Store Orders - E-Commerce Web Sales,766.86,,22758.97
+2026-10-06,CR-10055,DEP-1006-055,Retail POS Batch Settlement - Daily Card Sales,430.85,,23189.82
+2026-10-06,CR-10057,DEP-1006-057,Wholesale Invoice Settlement - Wholesale Account Receivable,1134.76,,24324.58
+2026-10-06,PV-10051,CHK-10051,Evergreen Janitorial - Cleaning Services,,1948.71,22375.87
+2026-10-06,PV-10052,CHK-10052,Cascade Fuel & Gas - Store Heating & Delivery Van Fuel,,1562.31,20813.56
+2026-10-06,PV-10054,CHK-10054,Summit Hardware Distributors - Store Maintenance Hardware,,990.64,19822.92
+2026-10-06,PV-10056,CHK-10056,Northwest Logistics - Freight & Delivery,,1779.61,18043.31
+2026-10-06,PV-10058,CHK-10058,Vanguard Insurance - Business Liability Insurance,,969.02,17074.29
+2026-10-07,CR-10059,DEP-1007-059,Online Store Orders - E-Commerce Web Sales,1528.11,,18602.40
+2026-10-07,CR-10061,DEP-1007-061,Store Cash Deposit - Daily Counter Cash Sales,1768.32,,20370.72
+2026-10-07,CR-10062,DEP-1007-062,Store Cash Deposit - Daily Counter Cash Sales,1517.27,,21887.99
+2026-10-07,CR-10063,DEP-1007-063,Store Cash Deposit - Daily Counter Cash Sales,2029.62,,23917.61
+2026-10-07,CR-10064,DEP-1007-064,Retail POS Batch Settlement - Daily Card Sales,373.88,,24291.49
+2026-10-07,CR-10065,DEP-1007-065,Store Cash Deposit - Daily Counter Cash Sales,676.34,,24967.83
+2026-10-07,CR-10066,DEP-1007-066,Wholesale Invoice Settlement - Wholesale Account Receivable,882.10,,25849.93
+2026-10-07,CR-10067,DEP-1007-067,Wholesale Invoice Settlement - Wholesale Account Receivable,694.40,,26544.33
+2026-10-07,CR-10068,DEP-1007-068,Store Cash Deposit - Daily Counter Cash Sales,988.14,,27532.47
+2026-10-07,PV-10060,CHK-10060,Beacon Security Services - Store Security Monitoring,,1285.99,26246.48
+2026-10-08,CR-10069,DEP-1008-069,Retail POS Batch Settlement - Daily Card Sales,1284.19,,27530.67
+2026-10-08,CR-10070,DEP-1008-070,Store Cash Deposit - Daily Counter Cash Sales,1867.34,,29398.01
+2026-10-08,CR-10072,DEP-1008-072,Store Cash Deposit - Daily Counter Cash Sales,1243.58,,30641.59
+2026-10-08,CR-10074,DEP-1008-074,Store Cash Deposit - Daily Counter Cash Sales,1823.90,,32465.49
+2026-10-08,CR-10076,DEP-1008-076,Wholesale Invoice Settlement - Wholesale Account Receivable,1655.41,,34120.90
+2026-10-08,CR-10077,DEP-1008-077,Retail POS Batch Settlement - Daily Card Sales,1326.48,,35447.38
+2026-10-08,PV-10071,CHK-10071,Tri-City Office Supplies - Office Supplies,,1220.13,34227.25
+2026-10-08,PV-10073,CHK-10073,Cascade Fuel & Gas - Store Heating & Delivery Van Fuel,,1208.96,33018.29
+2026-10-08,PV-10075,CHK-10075,Apex Wholesale Goods - Inventory Purchase,,546.39,32471.90
+2026-10-08,PV-10078,CHK-10078,Apex Land Holdings - Commercial Store Rent,,562.10,31909.80
+2026-10-09,CR-10079,DEP-1009-079,Online Store Orders - E-Commerce Web Sales,2147.58,,34057.38
+2026-10-09,CR-10083,DEP-1009-083,Retail POS Batch Settlement - Daily Card Sales,1197.68,,35255.06
+2026-10-09,CR-10084,DEP-1009-084,Online Store Orders - E-Commerce Web Sales,661.42,,35916.48
+2026-10-09,CR-10085,DEP-1009-085,Retail POS Batch Settlement - Daily Card Sales,467.53,,36384.01
+2026-10-09,CR-10086,DEP-1009-086,Wholesale Invoice Settlement - Wholesale Account Receivable,1893.56,,38277.57
+2026-10-09,PV-10080,CHK-10080,Evergreen Janitorial - Cleaning Services,,711.09,37566.48
+2026-10-09,PV-10081,CHK-10081,Cascade Utilities - Water & Sewage,,1238.69,36327.79
+2026-10-09,PV-10082,CHK-10082,Metro Packaging Co - Packaging & Boxes,,1344.10,34983.69
+2026-10-09,PV-10087,CHK-10087,Summit Hardware Distributors - Store Maintenance Hardware,,1264.89,33718.80
+2026-10-09,PV-10088,CHK-10088,Pacific Power & Light - Electricity Utility,,1439.15,32279.65
+2026-10-10,CR-10089,DEP-1010-089,Retail POS Batch Settlement - Daily Card Sales,1623.92,,33903.57
+2026-10-10,CR-10091,DEP-1010-091,Online Store Orders - E-Commerce Web Sales,2109.94,,36013.51
+2026-10-10,CR-10093,DEP-1010-093,Store Cash Deposit - Daily Counter Cash Sales,500.36,,36513.87
+2026-10-10,CR-10094,DEP-1010-094,Store Cash Deposit - Daily Counter Cash Sales,272.39,,36786.26
+2026-10-10,CR-10097,DEP-1010-097,Wholesale Invoice Settlement - Wholesale Account Receivable,1312.64,,38098.90
+2026-10-10,PV-10090,CHK-10090,Apex Land Holdings - Commercial Store Rent,,597.58,37501.32
+2026-10-10,PV-10092,CHK-10092,Apex Staffing Agency - Temporary Weekend Staff,,1732.69,35768.63
+2026-10-10,PV-10095,CHK-10095,Apex Land Holdings - Commercial Store Rent,,1362.06,34406.57
+2026-10-10,PV-10096,CHK-10096,Summit Hardware Distributors - Store Maintenance Hardware,,365.80,34040.77
+2026-10-11,CR-10100,DEP-1011-100,Wholesale Invoice Settlement - Wholesale Account Receivable,1962.12,,36002.89
+2026-10-11,CR-10101,DEP-1011-101,Wholesale Invoice Settlement - Wholesale Account Receivable,989.94,,36992.83
+2026-10-11,CR-10105,DEP-1011-105,Wholesale Invoice Settlement - Wholesale Account Receivable,913.49,,37906.32
+2026-10-11,CR-10106,DEP-1011-106,Store Cash Deposit - Daily Counter Cash Sales,1902.61,,39808.93
+2026-10-11,PV-10098,CHK-10098,Vanguard Insurance - Business Liability Insurance,,281.87,39527.06
+2026-10-11,PV-10099,CHK-10099,Cascade Utilities - Water & Sewage,,252.90,39274.16
+2026-10-11,PV-10102,CHK-10102,Beacon Security Services - Store Security Monitoring,,911.41,38362.75
+2026-10-11,PV-10103,CHK-10103,Cascade Fuel & Gas - Store Heating & Delivery Van Fuel,,579.63,37783.12
+2026-10-11,PV-10104,CHK-10104,Metro Packaging Co - Packaging & Boxes,,1684.90,36098.22
+2026-10-11,PV-10107,CHK-10107,Pacific Power & Light - Electricity Utility,,531.24,35566.98
+2026-10-12,CR-10108,DEP-1012-108,Store Cash Deposit - Daily Counter Cash Sales,1928.52,,37495.50
+2026-10-12,CR-10109,DEP-1012-109,Online Store Orders - E-Commerce Web Sales,637.73,,38133.23
+2026-10-12,CR-10112,DEP-1012-112,Store Cash Deposit - Daily Counter Cash Sales,2192.44,,40325.67
+2026-10-12,CR-10116,DEP-1012-116,Online Store Orders - E-Commerce Web Sales,1963.51,,42289.18
+2026-10-12,PV-10110,CHK-10110,Harbor Telecom - Internet & Telephone,,241.06,42048.12
+2026-10-12,PV-10111,CHK-10111,Vanguard Insurance - Business Liability Insurance,,1251.02,40797.10
+2026-10-12,PV-10113,CHK-10113,Pacific Power & Light - Electricity Utility,,554.46,40242.64
+2026-10-12,PV-10114,CHK-10114,Cascade Utilities - Water & Sewage,,534.75,39707.89
+2026-10-12,PV-10115,CHK-10115,Apex Land Holdings - Commercial Store Rent,,1177.88,38530.01
+2026-10-12,PV-10117,CHK-10117,Evergreen Janitorial - Cleaning Services,,492.74,38037.27
+2026-10-13,CR-10119,DEP-1013-119,Store Cash Deposit - Daily Counter Cash Sales,1585.00,,39622.27
+2026-10-13,CR-10123,DEP-1013-123,Store Cash Deposit - Daily Counter Cash Sales,2116.57,,41738.84
+2026-10-13,PV-10118,CHK-10118,Cascade Fuel & Gas - Store Heating & Delivery Van Fuel,,517.67,41221.17
+2026-10-13,PV-10120,CHK-10120,Evergreen Janitorial - Cleaning Services,,1697.34,39523.83
+2026-10-13,PV-10121,CHK-10121,Apex Land Holdings - Commercial Store Rent,,1496.36,38027.47
+2026-10-13,PV-10122,CHK-10122,Apex Staffing Agency - Temporary Weekend Staff,,1829.87,36197.60
+2026-10-13,PV-10124,CHK-10124,Apex Wholesale Goods - Inventory Purchase,,1081.64,35115.96
+2026-10-13,PV-10125,CHK-10125,Northwest Logistics - Freight & Delivery,,925.89,34190.07
+2026-10-13,PV-10126,CHK-10126,Summit Hardware Distributors - Store Maintenance Hardware,,912.44,33277.63
+2026-10-13,PV-10127,CHK-10127,Apex Land Holdings - Commercial Store Rent,,938.58,32339.05
+2026-10-14,CR-10128,DEP-1014-128,Wholesale Invoice Settlement - Wholesale Account Receivable,831.97,,33171.02
+2026-10-14,CR-10130,DEP-1014-130,Store Cash Deposit - Daily Counter Cash Sales,11888.68,,45059.70
+2026-10-14,CR-10131,DEP-1014-131,Online Store Orders - E-Commerce Web Sales,1336.05,,46395.75
+2026-10-14,CR-10134,DEP-1014-134,Store Cash Deposit - Daily Counter Cash Sales,1456.11,,47851.86
+2026-10-14,PV-10129,CHK-10129,Harbor Telecom - Internet & Telephone,,1441.70,46410.16
+2026-10-14,PV-10132,CHK-10132,Pacific Power & Light - Electricity Utility,,1811.88,44598.28
+2026-10-14,PV-10133,CHK-10133,Tri-City Office Supplies - Office Supplies,,1365.38,43232.90
+2026-10-14,PV-10135,CHK-10135,Vanguard Insurance - Business Liability Insurance,,874.72,42358.18
+2026-10-14,PV-10136,CHK-10136,West Coast Waste Management - Waste Disposal Services,,1091.01,41267.17
+2026-10-14,PV-10137,CHK-10137,Tri-City Office Supplies - Office Supplies,,1145.80,40121.37
+2026-10-15,CR-10138,DEP-1015-138,Online Store Orders - E-Commerce Web Sales,2179.57,,42300.94
+2026-10-15,CR-10139,DEP-1015-139,Online Store Orders - E-Commerce Web Sales,553.19,,42854.13
+2026-10-15,CR-10140,DEP-1015-140,Online Store Orders - E-Commerce Web Sales,677.68,,43531.81
+2026-10-15,CR-10141,DEP-1015-141,Store Cash Deposit - Daily Counter Cash Sales,362.95,,43894.76
+2026-10-15,CR-10142,DEP-1015-142,Store Cash Deposit - Daily Counter Cash Sales,1958.92,,45853.68
+2026-10-15,CR-10144,DEP-1015-144,Retail POS Batch Settlement - Daily Card Sales,814.31,,46667.99
+2026-10-15,PV-10143,CHK-10143,Summit Hardware Distributors - Store Maintenance Hardware,,357.77,46310.22
+2026-10-15,PV-10145,CHK-10145,Beacon Security Services - Store Security Monitoring,,1650.74,44659.48
+2026-10-15,PV-10146,CHK-10146,Northwest Logistics - Freight & Delivery,,1654.85,43004.63
+2026-10-16,CR-10147,DEP-1016-147,Online Store Orders - E-Commerce Web Sales,1513.67,,44518.30
+2026-10-16,CR-10149,DEP-1016-149,Wholesale Invoice Settlement - Wholesale Account Receivable,598.37,,45116.67
+2026-10-16,CR-10150,DEP-1016-150,Wholesale Invoice Settlement - Wholesale Account Receivable,548.04,,45664.71
+2026-10-16,CR-10154,DEP-1016-154,Wholesale Invoice Settlement - Wholesale Account Receivable,2076.48,,47741.19
+2026-10-16,CR-10155,DEP-1016-155,Retail POS Batch Settlement - Daily Card Sales,863.62,,48604.81
+2026-10-16,PV-10148,CHK-10148,Summit Hardware Distributors - Store Maintenance Hardware,,1941.27,46663.54
+2026-10-16,PV-10151,CHK-10151,Evergreen Janitorial - Cleaning Services,,648.02,46015.52
+2026-10-16,PV-10152,CHK-10152,Pacific Power & Light - Electricity Utility,,1561.33,44454.19
+2026-10-16,PV-10153,CHK-10153,Vanguard Insurance - Business Liability Insurance,,688.88,43765.31
+2026-10-16,PV-10156,CHK-10156,Pacific Power & Light - Electricity Utility,,280.58,43484.73
+2026-10-17,CR-10158,DEP-1017-158,Online Store Orders - E-Commerce Web Sales,1176.80,,44661.53
+2026-10-17,CR-10160,DEP-1017-160,Online Store Orders - E-Commerce Web Sales,1144.76,,45806.29
+2026-10-17,CR-10163,DEP-1017-163,Online Store Orders - E-Commerce Web Sales,405.59,,46211.88
+2026-10-17,PV-10157,CHK-10157,West Coast Waste Management - Waste Disposal Services,,909.39,45302.49
+2026-10-17,PV-10159,CHK-10159,Vanguard Insurance - Business Liability Insurance,,324.48,44978.01
+2026-10-17,PV-10161,CHK-10161,Harbor Telecom - Internet & Telephone,,911.65,44066.36
+2026-10-17,PV-10162,CHK-10162,Beacon Security Services - Store Security Monitoring,,391.72,43674.64
+2026-10-17,PV-10164,CHK-10164,Evergreen Janitorial - Cleaning Services,,719.12,42955.52
+2026-10-17,PV-10165,CHK-10165,Beacon Security Services - Store Security Monitoring,,1620.79,41334.73
+2026-10-17,PV-10166,CHK-10166,Apex Staffing Agency - Temporary Weekend Staff,,484.48,40850.25
+2026-10-18,CR-10167,DEP-1018-167,Retail POS Batch Settlement - Daily Card Sales,1295.64,,42145.89
+2026-10-18,CR-10168,DEP-1018-168,Online Store Orders - E-Commerce Web Sales,1322.12,,43468.01
+2026-10-18,CR-10170,DEP-1018-170,Retail POS Batch Settlement - Daily Card Sales,1297.09,,44765.10
+2026-10-18,CR-10172,DEP-1018-172,Online Store Orders - E-Commerce Web Sales,770.31,,45535.41
+2026-10-18,CR-10175,DEP-1018-175,Online Store Orders - E-Commerce Web Sales,1871.75,,47407.16
+2026-10-18,PV-10169,CHK-10169,Apex Staffing Agency - Temporary Weekend Staff,,316.14,47091.02
+2026-10-18,PV-10171,CHK-10171,Cascade Fuel & Gas - Store Heating & Delivery Van Fuel,,433.94,46657.08
+2026-10-18,PV-10173,CHK-10173,Evergreen Janitorial - Cleaning Services,,599.65,46057.43
+2026-10-18,PV-10174,CHK-10174,Tri-City Office Supplies - Office Supplies,,1416.37,44641.06
+2026-10-18,PV-10176,CHK-10176,Apex Staffing Agency - Temporary Weekend Staff,,1291.63,43349.43
+2026-10-18,PV-10185,CHK-10415,Pacific Power & Light - Store Electricity Oct,,524.00,42825.43
+2026-10-19,CR-10177,DEP-1019-177,Wholesale Invoice Settlement - Wholesale Account Receivable,1672.98,,44498.41
+2026-10-19,CR-10184,DEP-1019-184,Online Store Orders - E-Commerce Web Sales,1957.91,,46456.32
+2026-10-19,CR-10185,DEP-1019-185,Wholesale Invoice Settlement - Wholesale Account Receivable,1073.21,,47529.53
+2026-10-19,CR-10186,DEP-1019-186,Retail POS Batch Settlement - Daily Card Sales,971.85,,48501.38
+2026-10-19,PV-10178,CHK-10178,Apex Land Holdings - Commercial Store Rent,,535.63,47965.75
+2026-10-19,PV-10179,CHK-10179,Northwest Logistics - Freight & Delivery,,593.19,47372.56
+2026-10-19,PV-10180,CHK-10180,Apex Wholesale Goods - Inventory Purchase,,564.21,46808.35
+2026-10-19,PV-10181,CHK-10181,Cascade Fuel & Gas - Store Heating & Delivery Van Fuel,,1150.38,45657.97
+2026-10-19,PV-10182,CHK-10182,Cascade Fuel & Gas - Store Heating & Delivery Van Fuel,,627.36,45030.61
+2026-10-19,PV-10183,CHK-10183,Beacon Security Services - Store Security Monitoring,,1055.13,43975.48
+2026-10-20,CR-10191,DEP-1020-191,Store Cash Deposit - Daily Counter Cash Sales,2096.55,,46072.03
+2026-10-20,CR-10192,DEP-1020-192,Online Store Orders - E-Commerce Web Sales,1496.88,,47568.91
+2026-10-20,CR-10195,DEP-1020-195,Store Cash Deposit - Daily Counter Cash Sales,1235.44,,48804.35
+2026-10-20,PV-10187,CHK-10187,Pacific Power & Light - Electricity Utility,,1833.93,46970.42
+2026-10-20,PV-10188,CHK-10188,Apex Wholesale Goods - Inventory Purchase,,327.15,46643.27
+2026-10-20,PV-10189,CHK-10189,Beacon Security Services - Store Security Monitoring,,1603.49,45039.78
+2026-10-20,PV-10190,CHK-10190,Pacific Power & Light - Electricity Utility,,1672.99,43366.79
+2026-10-20,PV-10193,CHK-10193,West Coast Waste Management - Waste Disposal Services,,1817.46,41549.33
+2026-10-20,PV-10194,CHK-10194,West Coast Waste Management - Waste Disposal Services,,1927.02,39622.31
+2026-10-21,CR-10197,DEP-1021-197,Retail POS Batch Settlement - Daily Card Sales,1489.58,,41111.89
+2026-10-21,CR-10199,DEP-1021-199,Wholesale Invoice Settlement - Wholesale Account Receivable,2143.60,,43255.49
+2026-10-21,CR-10204,DEP-1021-204,Retail POS Batch Settlement - Daily Card Sales,1344.67,,44600.16
+2026-10-21,PV-10196,CHK-10196,West Coast Waste Management - Waste Disposal Services,,342.66,44257.50
+2026-10-21,PV-10198,CHK-10198,Vanguard Insurance - Business Liability Insurance,,1120.73,43136.77
+2026-10-21,PV-10200,CHK-10200,Beacon Security Services - Store Security Monitoring,,862.41,42274.36
+2026-10-21,PV-10201,CHK-10201,Summit Hardware Distributors - Store Maintenance Hardware,,1192.52,41081.84
+2026-10-21,PV-10202,CHK-10202,Evergreen Janitorial - Cleaning Services,,367.81,40714.03
+2026-10-21,PV-10203,CHK-10203,Cascade Fuel & Gas - Store Heating & Delivery Van Fuel,,871.87,39842.16
+2026-10-21,PV-10205,CHK-10205,Tri-City Office Supplies - Office Supplies,,974.91,38867.25
+2026-10-22,CR-10207,DEP-1022-207,Store Cash Deposit - Daily Counter Cash Sales,427.27,,39294.52
+2026-10-22,CR-10208,DEP-1022-208,Wholesale Invoice Settlement - Wholesale Account Receivable,763.61,,40058.13
+2026-10-22,CR-10212,DEP-1022-212,Retail POS Batch Settlement - Daily Card Sales,312.60,,40370.73
+2026-10-22,CR-10214,DEP-1022-214,Online Store Orders - E-Commerce Web Sales,703.94,,41074.67
+2026-10-22,PV-10206,CHK-10206,Metro Packaging Co - Packaging & Boxes,,1840.07,39234.60
+2026-10-22,PV-10209,CHK-10209,Harbor Telecom - Internet & Telephone,,1319.78,37914.82
+2026-10-22,PV-10210,CHK-10210,Apex Land Holdings - Commercial Store Rent,,1503.36,36411.46
+2026-10-22,PV-10211,CHK-10211,Cascade Utilities - Water & Sewage,,1359.04,35052.42
+2026-10-22,PV-10213,CHK-10213,Apex Land Holdings - Commercial Store Rent,,1463.88,33588.54
+2026-10-22,PV-10215,CHK-10215,Northwest Logistics - Freight & Delivery,,6804.99,26783.55
+2026-10-22,PV-10221,ACH-10221,Tri-City Office Supplies - Store Stationery,,184.50,26599.05
+2026-10-22,PV-10222,ACH-10221,Tri-City Office Supplies - Store Stationery (DUPLICATE ENTRY),,184.50,26414.55
+2026-10-23,CR-10216,DEP-1023-216,Store Cash Deposit - Daily Counter Cash Sales,1427.27,,27841.82
+2026-10-23,CR-10217,DEP-1023-217,Store Cash Deposit - Daily Counter Cash Sales,419.53,,28261.35
+2026-10-23,CR-10219,DEP-1023-219,Store Cash Deposit - Daily Counter Cash Sales,1733.17,,29994.52
+2026-10-23,CR-10223,DEP-1023-223,Store Cash Deposit - Daily Counter Cash Sales,849.65,,30844.17
+2026-10-23,PV-10218,CHK-10218,Apex Staffing Agency - Temporary Weekend Staff,,1879.40,28964.77
+2026-10-23,PV-10220,CHK-10220,Pacific Power & Light - Electricity Utility,,1873.17,27091.60
+2026-10-23,PV-10221,CHK-10221,Tri-City Office Supplies - Office Supplies,,1000.81,26090.79
+2026-10-23,PV-10222,CHK-10222,Vanguard Insurance - Business Liability Insurance,,294.20,25796.59
+2026-10-23,PV-10224,CHK-10224,West Coast Waste Management - Waste Disposal Services,,1779.76,24016.83
+2026-10-23,PV-10225,CHK-10225,Northwest Logistics - Freight & Delivery,,904.60,23112.23
+2026-10-24,CR-10228,DEP-1024-228,Online Store Orders - E-Commerce Web Sales,1399.07,,24511.30
+2026-10-24,CR-10230,DEP-1024-230,Store Cash Deposit - Daily Counter Cash Sales,2088.67,,26599.97
+2026-10-24,CR-10231,DEP-1024-231,Online Store Orders - E-Commerce Web Sales,1028.83,,27628.80
+2026-10-24,CR-10232,DEP-1024-232,Retail POS Batch Settlement - Daily Card Sales,1579.34,,29208.14
+2026-10-24,CR-10233,DEP-1024-233,Online Store Orders - E-Commerce Web Sales,961.42,,30169.56
+2026-10-24,CR-10235,DEP-1024-235,Store Cash Deposit - Daily Counter Cash Sales,1989.75,,32159.31
+2026-10-24,PV-10226,CHK-10226,West Coast Waste Management - Waste Disposal Services,,433.38,31725.93
+2026-10-24,PV-10227,CHK-10227,Pacific Power & Light - Electricity Utility,,1140.59,30585.34
+2026-10-24,PV-10229,CHK-10229,Apex Land Holdings - Commercial Store Rent,,1893.68,28691.66
+2026-10-24,PV-10234,CHK-10234,Summit Hardware Distributors - Store Maintenance Hardware,,1354.16,27337.50
+2026-10-25,CR-10237,DEP-1025-237,Store Cash Deposit - Daily Counter Cash Sales,568.63,,27906.13
+2026-10-25,CR-10241,DEP-1025-241,Retail POS Batch Settlement - Daily Card Sales,766.52,,28672.65
+2026-10-25,CR-10242,DEP-1025-242,Wholesale Invoice Settlement - Wholesale Account Receivable,341.88,,29014.53
+2026-10-25,CR-10243,DEP-1025-243,Store Cash Deposit - Daily Counter Cash Sales,1495.95,,30510.48
+2026-10-25,PV-10236,CHK-10236,Vanguard Insurance - Business Liability Insurance,,1029.36,29481.12
+2026-10-25,PV-10238,CHK-10238,Vanguard Insurance - Business Liability Insurance,,689.99,28791.13
+2026-10-25,PV-10239,CHK-10239,Apex Staffing Agency - Temporary Weekend Staff,,1677.65,27113.48
+2026-10-25,PV-10240,CHK-10240,Metro Packaging Co - Packaging & Boxes,,533.68,26579.80
+2026-10-25,PV-10244,CHK-10244,Cascade Fuel & Gas - Store Heating & Delivery Van Fuel,,573.37,26006.43
+2026-10-26,CR-10246,DEP-1026-246,Wholesale Invoice Settlement - Wholesale Account Receivable,658.54,,26664.97
+2026-10-26,CR-10247,DEP-1026-247,Store Cash Deposit - Daily Counter Cash Sales,583.72,,27248.69
+2026-10-26,CR-10248,DEP-1026-248,Store Cash Deposit - Daily Counter Cash Sales,1736.90,,28985.59
+2026-10-26,CR-10250,DEP-1026-250,Store Cash Deposit - Daily Counter Cash Sales,308.10,,29293.69
+2026-10-26,CR-10252,DEP-1026-252,Wholesale Invoice Settlement - Wholesale Account Receivable,1281.77,,30575.46
+2026-10-26,CR-10253,DEP-1026-253,Online Store Orders - E-Commerce Web Sales,438.60,,31014.06
+2026-10-26,PV-10245,CHK-10245,Cascade Utilities - Water & Sewage,,832.15,30181.91
+2026-10-26,PV-10249,CHK-10249,Summit Hardware Distributors - Store Maintenance Hardware,,428.63,29753.28
+2026-10-26,PV-10251,CHK-10251,Evergreen Janitorial - Cleaning Services,,1125.95,28627.33
+2026-10-26,PV-10254,CHK-10254,Pacific Power & Light - Electricity Utility,,912.44,27714.89
+2026-10-27,CR-10256,DEP-1027-256,Retail POS Batch Settlement - Daily Card Sales,762.35,,28477.24
+2026-10-27,CR-10257,DEP-1027-257,Store Cash Deposit - Daily Counter Cash Sales,384.96,,28862.20
+2026-10-27,CR-10261,DEP-1027-261,Online Store Orders - E-Commerce Web Sales,1473.52,,30335.72
+2026-10-27,CR-10262,DEP-1027-262,Store Cash Deposit - Daily Counter Cash Sales,301.75,,30637.47
+2026-10-27,CR-10264,DEP-1027-264,Online Store Orders - E-Commerce Web Sales,463.82,,31101.29
+2026-10-27,PV-10255,CHK-10255,Apex Wholesale Goods - Inventory Purchase,,1894.19,29207.10
+2026-10-27,PV-10258,CHK-10258,Apex Land Holdings - Commercial Store Rent,,164.08,29043.02
+2026-10-27,PV-10259,CHK-10259,West Coast Waste Management - Waste Disposal Services,,1923.56,27119.46
+2026-10-27,PV-10260,CHK-10260,Pacific Power & Light - Electricity Utility,,388.16,26731.30
+2026-10-27,PV-10263,CHK-10263,Vanguard Insurance - Business Liability Insurance,,627.37,26103.93
+2026-10-28,CR-10265,DEP-1028-265,Online Store Orders - E-Commerce Web Sales,2000.75,,28104.68
+2026-10-28,CR-10266,DEP-1028-266,Wholesale Invoice Settlement - Wholesale Account Receivable,1301.79,,29406.47
+2026-10-28,CR-10267,DEP-1028-267,Retail POS Batch Settlement - Daily Card Sales,730.92,,30137.39
+2026-10-28,CR-10270,DEP-1028-270,Wholesale Invoice Settlement - Wholesale Account Receivable,770.61,,30908.00
+2026-10-28,CR-10271,DEP-1028-271,Online Store Orders - E-Commerce Web Sales,2061.74,,32969.74
+2026-10-28,CR-10272,DEP-1028-272,Online Store Orders - E-Commerce Web Sales,1097.79,,34067.53
+2026-10-28,CR-10274,DEP-1028-274,Retail POS Batch Settlement - Daily Card Sales,1821.35,,35888.88
+2026-10-28,PV-10268,CHK-10268,Evergreen Janitorial - Cleaning Services,,255.54,35633.34
+2026-10-28,PV-10269,CHK-10269,Pacific Power & Light - Electricity Utility,,1462.34,34171.00
+2026-10-28,PV-10273,CHK-10273,Apex Staffing Agency - Temporary Weekend Staff,,1921.50,32249.50
+2026-10-29,CR-10277,DEP-1029-277,Store Cash Deposit - Daily Counter Cash Sales,1611.37,,33860.87
+2026-10-29,CR-10278,DEP-1029-278,Online Store Orders - E-Commerce Web Sales,1763.20,,35624.07
+2026-10-29,CR-10280,DEP-1029-280,Retail POS Batch Settlement - Daily Card Sales,1021.48,,36645.55
+2026-10-29,CR-10282,DEP-1029-282,Retail POS Batch Settlement - Daily Card Sales,1828.39,,38473.94
+2026-10-29,CR-10284,DEP-1029-284,Retail POS Batch Settlement - Daily Card Sales,2033.37,,40507.31
+2026-10-29,PV-10275,CHK-10275,Apex Land Holdings - Commercial Store Rent,,760.74,39746.57
+2026-10-29,PV-10276,CHK-10276,Metro Packaging Co - Packaging & Boxes,,758.55,38988.02
+2026-10-29,PV-10279,CHK-10279,Northwest Logistics - Freight & Delivery,,684.07,38303.95
+2026-10-29,PV-10281,CHK-10281,Harbor Telecom - Internet & Telephone,,492.38,37811.57
+2026-10-29,PV-10283,CHK-10283,Metro Packaging Co - Packaging & Boxes,,640.23,37171.34
+2026-10-29,PV-10291,CHK-10482,Northwest Logistics - Interstate Freight Delivery,,620.00,36551.34
+2026-10-30,CR-10285,DEP-1030-285,Retail POS Batch Settlement - Daily Card Sales,1930.33,,38481.67
+2026-10-30,CR-10286,DEP-1030-286,Retail POS Batch Settlement - Daily Card Sales,1671.80,,40153.47
+2026-10-30,CR-10287,DEP-1030-287,Store Cash Deposit - Daily Counter Cash Sales,1686.12,,41839.59
+2026-10-30,CR-10291,DEP-1030-291,Wholesale Invoice Settlement - Wholesale Account Receivable,1389.94,,43229.53
+2026-10-30,CR-10292,DEP-1030-292,Wholesale Invoice Settlement - Wholesale Account Receivable,417.02,,43646.55
+2026-10-30,CR-10293,DEP-1030-293,Store Cash Deposit - Daily Counter Cash Sales,696.64,,44343.19
+2026-10-30,PV-10288,CHK-10288,Cascade Utilities - Water & Sewage,,1443.13,42900.06
+2026-10-30,PV-10289,CHK-10289,Pacific Power & Light - Electricity Utility,,516.48,42383.58
+2026-10-30,PV-10290,CHK-10290,Apex Land Holdings - Commercial Store Rent,,1201.52,41182.06
+2026-10-30,PV-10301,CHK-10489,Metro Packaging Co - Corrugated Boxes Bulk Order,,1835.25,39346.81
+2026-10-31,CR-10311,DEP-1031A,Retail POS Batch Settlement - Oct 31 Afternoon,1840.50,,41187.31
+2026-10-31,CR-10312,DEP-1031B,Store Cash Deposit - Weekend Counter Register,950.00,,42137.31

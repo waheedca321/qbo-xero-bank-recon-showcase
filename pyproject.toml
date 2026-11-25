@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qbo-xero-bank-recon-showcase"
+version = "0.1.0"
+description = "Automated two-tier bank-to-book reconciliation engine with exception taxonomy and QBO/Xero adjusting journal generator."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pydantic>=2.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
